@@ -1,0 +1,12 @@
+name: statgr4244
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy>=2.0
+  - pandas>=2.2
+  - matplotlib>=3.9
+  - scipy>=1.14
+  - scikit-learn>=1.5
+  - jupyterlab>=4.2
+
